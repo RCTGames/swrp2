@@ -1,0 +1,8 @@
+"swrp2"
+{
+	"base"		"base"
+	"title"		"Star Wars RP - Clone Wars"
+	"maps" "^rp_"
+	"menusystem"	"1"
+	"workshopid" "869056860"
+}
